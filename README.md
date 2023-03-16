@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetsek)](https://github.com/yetsek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetsek&langs_count=3)](https://github.com/yetsek/github-readme-stats)
+
