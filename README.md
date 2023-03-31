@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ggg
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetsek)](https://github.com/yetsek/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yetsek&layout=compact)](https://github.com/yetsek/github-readme-stats)
+
 
 
